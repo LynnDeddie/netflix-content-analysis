@@ -1,5 +1,5 @@
 # content-analysis
-##Project 1: Netflix Content Analysis
+**Project 1: Netflix Content Analysis**
 Project Overview
 
 This project involves cleaning and analyzing a Netflix titles dataset, which includes shows and movies released on the platform. The goal was to uncover meaningful insights such as the most common genres, the distribution of content over the years, and how various metrics like runtime, type, and production countries affect content on Netflix.
@@ -9,7 +9,7 @@ Tools Used
 
     Jupyter Notebook
 
-    (Optional: Matplotlib/Seaborn – to be added)
+    
 
  Key Tasks Performed
 
@@ -60,7 +60,7 @@ Netflix relies heavily on analytics to decide what content to recommend, renew, 
 
 
 
-    ##Project 2: World Happiness Report Analysis
+    **Project 2: World Happiness Report Analysis**
     Project Overview
 
 This project dives into the World Happiness dataset, analyzing happiness scores across countries, regions, and time. The primary goal was to understand what regions are the happiest, how countries rank, and to engineer new features to support these insights.
